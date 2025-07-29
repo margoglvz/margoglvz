@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi! My name is Margaret! 🪷
 
-<!--
-**margoglvz/margoglvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent Systems and minoring in Bioinformatics and Health Informatics.
 
-Here are some ideas to get you started:
+## Interests 🏵
+- Artificial Intelligence & Machine Learning
+- Biomedical and Computer Vision research
+- Projects that promote community and accessibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On 🌼
+- AI-powered whole-cell segmentation multichannel GUI @ Ding Lab (UCI Biomedical Engineering)
+- Skin cancer detection web app using a custom CNN model @ CareTech
+- AI integration into Epic Systems as a Data Analyst Intern @ OCHIN
+- Serving as Recruitment Director @ Commit the Change
+
+## What I Value 🌷
+- Inclusive tech spaces
+- Building projects with purpose and ethical standards
+- Always learning and keeping an open mind!
+
+### Fun Facts About Me! :musical_note:
+- I have Peruvian and Bolivian heritage 🇧🇴
+- My hair has been red, blonde, green, blue, purple, and pink!
+- I have played the flute since the 4th grade and I love playing it! (Need a flute performer? I gotchu 😎)
