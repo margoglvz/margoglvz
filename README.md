@@ -2,6 +2,8 @@
 
 I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent Systems and minoring in Bioinformatics and Health Informatics.
 
+**Email: 📫**margaretgalvez05@gmail.com
+
 ## Interests 🏵
 - Artificial Intelligence & Machine Learning
 - Biomedical and Computer Vision research
