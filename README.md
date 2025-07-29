@@ -18,7 +18,7 @@ I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent
 - Building projects with purpose and ethical standards
 - Always learning and keeping an open mind!
 
-### Fun Facts About Me! :musical_note:
+## Fun Facts About Me! :musical_note:
 - I have Peruvian and Bolivian heritage 🇧🇴
 - My hair has been red, blonde, green, blue, purple, and pink!
 - I have played the flute since the 4th grade and I love playing it! (Need a flute performer? I gotchu 😎)
