@@ -10,8 +10,8 @@ I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent
 - Projects that promote community and accessibility
 
 ## Currently Working On 🌼
-- AI-powered whole-cell segmentation multichannel GUI @ Ding Lab (UCI Biomedical Engineering)
-- Skin cancer detection web app using a custom CNN model @ CareTech
+- AI-powered whole-cell segmentation multichannel GUI @ [Ding Lab](https://github.com/UCI-Ding-Lab/FISH-ML) (UCI Biomedical Engineering)
+- Skin cancer detection web app using a custom CNN model @ [CareTech](https://github.com/CareTech-at-UCI/melanoma-project)
 - Integration of AI into Epic Systems as a Data Analyst Intern @ OCHIN
 - Serving as Recruitment Director @ Commit the Change
 
