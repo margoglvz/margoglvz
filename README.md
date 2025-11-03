@@ -11,9 +11,8 @@ I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent
 
 ## Currently Working On 🌼
 - AI-powered whole-cell segmentation multichannel GUI @ [Ding Lab](https://github.com/UCI-Ding-Lab/FISH-ML) (UCI Biomedical Engineering)
-- Skin cancer detection web app using a custom CNN model @ [CareTech](https://github.com/CareTech-at-UCI/melanoma-project)
-- Integration of AI into Epic Systems as a Data Analyst Intern @ OCHIN
-- Serving as Recruitment Director @ Commit the Change
+- Leading the development of a food logging app with real-time object detection to measure alignment with the MIND diet @ [CareTech](https://github.com/CareTech-at-UCI/melanoma-project)
+- AI/ML Fellow @ [Automation Anywhere](https://github.com/Automation-Anywhere-1B)
 
 ## What I Value 🌷
 - Inclusive tech spaces
