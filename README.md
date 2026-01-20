@@ -1,6 +1,6 @@
 # Hi! My name is Margaret! 🪷
 
-I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent Systems and minoring in Bioinformatics and Health Informatics.
+I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent Systems and minoring in Health Informatics.
 
 **Email: 📫**margaretgalvez05@gmail.com
 
@@ -11,15 +11,10 @@ I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent
 
 ## Currently Working On 🌼
 - AI-powered whole-cell segmentation multichannel GUI @ [Ding Lab](https://github.com/UCI-Ding-Lab/FISH-ML) (UCI Biomedical Engineering)
-- Leading the development of a food logging app with real-time object detection to measure alignment with the MIND diet @ [CareTech](https://github.com/CareTech-at-UCI/melanoma-project)
+- Leading the development of a food logging app with real-time object detection to measure alignment with the MIND diet @ [CareTech](https://github.com/CareTech-at-UCI/)
 - AI/ML Fellow @ [Automation Anywhere](https://github.com/Automation-Anywhere-1B)
 
 ## What I Value 🌷
 - Inclusive tech spaces
 - Building projects with purpose and ethical standards
 - Always learning and keeping an open mind!
-
-## Fun Facts About Me! :musical_note:
-- I have Peruvian and Bolivian heritage ♥️💚
-- My hair has been red, blonde, green, blue, purple, and pink!
-- I have played the flute since the 4th grade and I love playing it! 
