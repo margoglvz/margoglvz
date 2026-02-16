@@ -12,7 +12,7 @@ I am a 3rd year Computer Science major at UC Irvine, specializing in Intelligent
 ## Currently Working On 🌼
 - Building a custom multichannel GUI for whole-cell segmentation @ [Ding Lab](https://github.com/UCI-Ding-Lab/FISH-ML) (UCI Biomedical Engineering)
 - Leading the development of a vitamin tracking app with real-time object detection to promote cognitive health @ [CareTech](https://github.com/CareTech-at-UCI/)
-- AI/ML Ambassador and Fellow @ [Automation Anywhere](https://github.com/Automation-Anywhere-1B)
+- Student Ambassador @ Break Through Tech and previous AI/ML Fellow @ [Automation Anywhere](https://github.com/Automation-Anywhere-1B)
 
 ## What I Value 🌷
 - Inclusive tech spaces
