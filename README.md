@@ -3,13 +3,13 @@
 <br />
 </p>
 
-I'm a fourth-year **Computer Science student at UC Irvine**, specializing in **Intelligent Systems** and minoring in **Health Informatics**. My interests sit at the intersection of **healthcare, AI, and software infrastructure**.
+I'm a 4th year **Computer Science student at UC Irvine**, specializing in **Intelligent Systems** and minoring in **Health Informatics**. My interests sit at the intersection of **healthcare, AI, and software infrastructure**.
 
 Through industry engineering, biomedical research, and student-led development, I've worked on both AI applications and the systems that make them useful. While I have a special interested in the intersection of health and technology, my main goal is to continue building dependable technology for people!
 
 [LinkedIn](https://www.linkedin.com/in/margaretgalvez/) · [Resume](https://drive.google.com/file/d/1bvaGCfLbQ_sUdkyqJ8PI0Y2RMqxAy0Uw/view?usp=sharing) · [Publication](https://aclanthology.org/2026.healing-1.28/)
 
-## What I'm interested in
+## My Interests
 
 - **AI for healthcare:** Tools that support clinicians and biomedical researchers, informed by the needs of the people using them.
 - **Biomedical language processing and scientific discovery:** Embeddings, semantic similarity, and literature analysis to help researchers navigate scientific knowledge.
@@ -18,7 +18,7 @@ Through industry engineering, biomedical research, and student-led development, 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=margoglvz&theme=modern-lilac2)](https://git.io/streak-stats)
 
-## Technologies I've worked with
+## Technologies I've Worked With
 
 | Area | Technologies |
 | --- | --- |
@@ -31,9 +31,10 @@ Through industry engineering, biomedical research, and student-led development, 
 | Infrastructure and delivery | Docker, Kubernetes, Helm, Spinnaker, GitHub Actions, Release Please |
 | Collaboration and development | Git, GitHub, Jira, Confluence, Figma, VS Code |
 
-## Leadership, teaching, and community
+## Leadership, Teaching, and Community
 
 - **President, Commit the Change:** Lead a community of more than 70 members delivering software for three nonprofit partners. Previously served as Co-Director of Recruitment and Full Stack Developer.
+- **Software Lead, CareTech:** Led software development for two years and was inaugural Software Lead for Tech Committee, building a custom CNN-based melanoma detection app and a nutrition tracking and analysis app using YOLO to recognize 215+ food classes.
 - **Mentor, Women in Computer Science at UCI:** Support students navigating computer science.
 - **Learning Assistant, CS 161:** Supported student learning in design and analysis of algorithms.
 - **ICS Summer Academy Assistant:** Helped high school students with cybersecurity and AI capstone projects.
