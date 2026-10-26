@@ -5,7 +5,7 @@
 
 I'm a 4th year **Computer Science student at UC Irvine**, specializing in **Intelligent Systems** and minoring in **Health Informatics**. My interests sit at the intersection of **healthcare, AI, and software infrastructure**.
 
-Through industry engineering, biomedical research, and student-led development, I've worked on both AI applications and the systems that make them useful. While I have a special interested in the intersection of health and technology, my main goal is to continue building dependable technology for people!
+Through industry engineering, biomedical research, and student-led development, I've worked on both AI applications and the systems that make them useful. While I have a special interest in the intersection of health and technology, my main goal is to continue building dependable technology for real-world scenarios and for real people!
 
 [LinkedIn](https://www.linkedin.com/in/margaretgalvez/) · [Resume](https://drive.google.com/file/d/1bvaGCfLbQ_sUdkyqJ8PI0Y2RMqxAy0Uw/view?usp=sharing) · [Publication](https://aclanthology.org/2026.healing-1.28/)
 
