@@ -37,8 +37,8 @@ Through industry engineering, biomedical research, and student-led development, 
 - **Software Lead, CareTech:** Led software development for two years and was inaugural Software Lead for Tech Committee, building a custom CNN-based melanoma detection app and a nutrition tracking and analysis app using YOLO to recognize 215+ food classes.
 - **Mentor, Women in Computer Science at UCI:** Support students navigating computer science.
 - **Learning Assistant, CS 161:** Supported student learning in design and analysis of algorithms.
-- **ICS Summer Academy Assistant:** Helped high school students with cybersecurity and AI capstone projects.
-- **Break Through Tech AI Ambassador:** Shared my fellowship experience with prospective participants.
+- **ICS Summer Academy Assistant:** Led high school students to complete cybersecurity and AI capstone projects.
+- **Break Through Tech AI Ambassador:** Recognized to represent an organization to share my fellowship experience with prospective participants.
 
 ## Recognitions
 
